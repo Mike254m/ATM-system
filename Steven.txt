@@ -1,0 +1,18 @@
+******************************************************************************************
+*		BANK STATEMENT FOR Steven		*
+******************************************************************************************
+Transaction	      Amount	        Balance	        Date
+
+Withdrawal	50
+Withdrawal	100	884
+Withdrawal	100	784
+Withdrawal	200	584
+Deposit	10	594
+Withdrawal	422	172
+Withdrawal	70	102
+Deposit	500	602
+Withdrawal	50	552
+Deposit	120	672
+Deposit	0	672
+Withdrawal	100	572
+Withdrawal	100	472

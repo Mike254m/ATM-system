@@ -1,0 +1,19 @@
+Hypertech ATM System
+
+Members:
+1. Muriithi Lee Kelvin Njiru	EB1/32661/17
+2. Brian Kiprop	Cherekes	EB1/31335/17
+3. Letiwa Nailashu Roda 	EB1/32702/17
+4. Omosa Teresa Kemuma          EB1/32757/17
+5. Maina Michael Mwangi         EB1/32676/17
+6. Steven Ondieki Omwange	EB1/26243/16
+
+Database configurations:
+
+ - Database name:	atm_db
+ - table name:		customer_id
+
+ - table fields: - customeID - int (NB: no R in customeID)
+		 - pin - int
+		 - bankbalance - int
+		 - name - varchar
